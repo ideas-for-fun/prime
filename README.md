@@ -1,4 +1,4 @@
 # prime
 Discuss prime factorization
 
-https://github.com/ideas-for-fun/prime/wiki
+https://github.com/ideas-for-fun/prime/wiki/Prime
