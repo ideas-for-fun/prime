@@ -2,5 +2,5 @@ blockdiag {
   default_shape="circle";
   1 -> 2;
   L [label="..."]
-  2 -> L -> N -> 1;
+  2 -> L -> N-1 -> 1;
 }
